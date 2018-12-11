@@ -5,9 +5,9 @@ Simple implementation of a pre-trained inceptionV3 on imagenet with a simple vis
 
 Run test_install.py to test that you have all the dependencies:
   
-  Python test_install.py
+    Python test_install.py
   
 Once you are good to go run:
   
-  Python InceptionV3.py
+    Python InceptionV3.py
   
